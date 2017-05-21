@@ -44,4 +44,9 @@ This is the ultimate ranking for vim plugins. If you're like me not sure which p
 4. [vimcasts.org](http://vimcasts.org/)
 I forgot which screencast I watched but this sites contain lots of good stuff.
 
+5. [ultisnips and youcompleteme](http://stackoverflow.com/a/22253548/247807)
+There's a little conflict between these 2 plugins and just I was about to be desperate, I find that SO answer making my day. `<tab>` works as normal and `ctrl-n` is used to go through other candidate which is totally fine to me.
+
 Last, I must say that install those plugins on a mac is easier than on PC, especially the `youcompleteme` because you need compile it first.
+
+P.S. Here is my complete [_vimrc](https://github.com/sandyleo26/dotfiles/blob/master/_vimrc) for your reference.
