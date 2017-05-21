@@ -4,7 +4,11 @@ title:  Gear Up Vim
 date:   2017-05-20
 tags: vim
 ---
-Last Friday, after so many years being a basic `vi` user, I finally decided to make my `Vim` more powerful by adding a bunch of plugins. I first installed them on my Window 7 PC, tried and played around a bit and then my MBP. Here is the plugin I've added:
+As a suspicious and paranoid guy, I always thought plugins will make vim run sluggish. And you'll get a hard time working on a different machine without those plugins. And I had some experience before that some plugins are really like toys that they might work in some cases but always come with a catch.
+
+Last Friday, after so many years being a basic `vi` user, I finally decided to make my `Vim` more powerful by adding a bunch of plugins. It's mainly because watching other peoping use sublime or microsoft code really makes me want to switch my favorite editor. 
+
+I first installed them on my Window 7 PC, tried and played around a bit and then my MBP. Here is the plugin I've added:
 
     Plugin 'VundleVim/Vundle.vim'
     Plugin 'tpope/vim-fugitive'
