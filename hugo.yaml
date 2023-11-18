@@ -1,0 +1,77 @@
+baseURL: 'https://example.org/'
+languageCode: 'en-us'
+title: 'Twenty Six'
+# demo: https://adityatelange.github.io/hugo-PaperMod/
+# demo source: https://github.com/adityatelange/hugo-PaperMod/blob/exampleSite/config.yml
+theme: 'PaperMod'
+
+googleAnalytics: UA-98269098-1
+enableInlineShortcodes: true
+enableRobotsTXT: true
+# https://gohugo.io/quick-reference/emojis/
+enableEmoji: true
+
+menu:
+  main:
+  - identifier: archive
+    name: Archive
+    url: archives
+    weight: 10
+  - identifier: search
+    name: Search
+    url: search/
+    weight: 10
+  - identifier: about
+    name: About
+    url: about
+
+outputs:
+  home:
+  - HTML
+  - RSS
+  - JSON # is necessary
+
+params:
+  enableGiscus: true
+  # disableComments: true
+  # one of 3modes supported by PaperMod
+  profileMode:
+    enabled: true
+    title: "Twenty Six" # optional default will be site title
+    subtitle: "" # optional
+    imageUrl: "/shamiao.jpg" # optional
+    imageTitle: "picture of my cat sitting on bed" # optional
+    imageWidth: 320 # custom size
+    imageHeight: 320 # custom size
+
+    # buttons:
+    # - name: Archive
+    #   url: "/archive"
+    # - name: Github
+    #   url: "https://github.com/"
+    # - name: Posts
+    #   url: "/post"
+
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  socialIcons: # optional
+  - name: "github"
+    url: "https://github.com/sandyleo26"
+  - name: "twitter"
+    url: "https://twitter/sandyleo26"
+  - name: email
+    url: email:me@shaliu.org
+
+
+# TODO: customize search feature in the future
+# ref: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#regular-mode-default-mode
+#   fuseOpts:
+#     isCaseSensitive: false
+#     shouldSort: true
+#     location: 0
+#     distance: 1000
+#     threshold: 0.4
+#     minMatchCharLength: 0
+#     keys: ["title", "permalink", "summary", "content"]

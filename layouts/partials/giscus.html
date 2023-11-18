@@ -1,0 +1,25 @@
+{{- if (eq (.Site.Params.enableGiscus | default false) true) -}}
+    {{- if (eq (.Params.enableGiscus | default false) true) -}}
+      <script src="https://giscus.app/client.js"
+              data-repo="sandyleo26/sandyleo26.github.io"
+              data-repo-id="MDEwOlJlcG9zaXRvcnk4OTgzMTQ3OA=="
+              data-category="General"
+              data-category-id="DIC_kwDOBVq4Ns4CbDmS"
+              data-mapping="pathname"
+              data-strict="1"
+              data-reactions-enabled="1"
+              data-emit-metadata="0"
+              data-input-position="bottom"
+              data-theme="light"
+
+              data-theme="{{ .Site.Params.giscusTheme }}"
+              data-lang="en"
+              data-loading="lazy"
+              crossorigin="anonymous"
+              async>
+
+              // TODO: change theme based on site
+      </script>
+
+    {{- end -}}
+{{- end -}}

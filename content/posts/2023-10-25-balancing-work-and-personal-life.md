@@ -1,0 +1,19 @@
+---
+layout: single
+title:  Balancing Work and Personal Life
+date:   2023-10-25
+enableGiscus: true
+# tags: me
+---
+It's been 10 days since my last post in which I promised to blog regularly. Well it doesn't seem to be a good start given it's been days since last post. But here am I in front my desk in the morning and writing my 2nd post. I told you I'm serious about blogging.
+
+I didn't blog last weekend as I was in a bad mood most of it(due to health reason which I will talk about in the future) and when I realized that I need to write blog it was already Sunday night and I haven't done the weekly review. So I prioritized the review and left task this week to "backfill" the blog. But it took me 3 days to finally find the time for it. The reason is I was busying working at night for the last 2 days and it was already 10:30pm when I finished the work.
+
+So let's talk about the working late at night thing. BTW, I changed my job early September so it's about 7 weeks in the new company. I'm not ready to talk about the company for now but it's not hard to find out. I like the young and vibrant workforce here. Many young people are in my team (like fresh graduates) and although it makes me feel like an old dog, I do enjoy its vibe, especially eavesdropping them talking about their interests (e.g. investment in the crypto market), which gives allows me to peek into the mind of young people and makes me feel young again (yeah feeling old and young at the same time. It's complicated!)
+
+I also like the fast moving pace here. There's weekly review for new features driven by product managers so you get a constant flow of requirements coming at you. This is unlike all my previous experience. And the new requirements are not like small tweaks or normal bugfixes. Many of them involve significant changes in existing codebase, touching multiple components. For example the one I'm currently working on requires at least 2 people in my team to work for 10+ days and this is not counting other teams. Overall, I think it needs around 40 PD(personal day) to cover just the development. Then it comes the testing and QA, which is probably take the same amount of PD. So imagine 5-8 these features being discussed regularly each week. I didn't feel stress in the first few weeks as I was assigned to a trivial task but now as I'm in the middle of the testing phase of my second feature, I realized how much stress it can bring to me going forward, given that I aspire to take a lead role in the future.
+
+As mentioned I worked at night for the past two days. I basically started after dinner and shower around 8pm and work continuously until 10:30pm so it's not like that I multi-task or just occasionally checking messages. It's a solid 2.5h working session involving troubleshooting, fix and deploying. I also worked 2-3 nights last week and probably the week before that.
+
+You can see where I am going with this. It's obviously not a good sign for me, given that I have many personal and family commitments. If my work is like this at my second month, what it would be like in the future. What about my aspirations to take on a bigger role? I don't have good solutions now. The only thing I have are some small ideas to optimize the way I work so that I could use less time to finish the work. Things like completing the steel thread before optimizing so I could discover blockers early on. I'm not sure whether they work but I'm going to give a try. One thing that's certain is if I can't restore my work life balance (no work after work) then I'm afraid this job is not for me, no matter how well paid it is or how well known the company is(so satisfy my vanity). I would rather take a pay cut and go back to any of my last 2 employers(supposedly they still like me) so that I have time for myself.
+
